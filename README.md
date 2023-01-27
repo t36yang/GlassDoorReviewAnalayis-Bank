@@ -1,4 +1,4 @@
-# Glassdoor Review Analayis-Citi Bank
+# Glassdoor Review Analysis-Citi Bank
 
 ![Glassdoor-Logo](https://user-images.githubusercontent.com/117051182/215185275-eb20a3a0-4209-49d3-9f8c-cecd23e9e14e.png)
 
